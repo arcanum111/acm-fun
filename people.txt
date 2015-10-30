@@ -1,6 +1,4 @@
 Nick
-<<<<<<< HEAD
 Breaton
-=======
 Serge
->>>>>>> d8dd44c50e0629f364e501847d4f7d35826ee344
+Michael
